@@ -3,7 +3,7 @@
 
 ## Anggota Kelompok
 | Nama           | NRP        | Kelas     |
-| ---            | ---        | ----------|
+| Bima Novrifa Ananditya        | 5025241194       | C|
 |                |            |           |
 |                |            |           |
 
